@@ -75,7 +75,7 @@ Na galeria de recursos, os serviços estão organizados em categorias no menu la
 
 ## 🖼️ Evidências Visuais
 
-> ![Imagem 01 - Lista de Categorias no Portal Azure](./images/b9490ed3-4134-4b6b-a089-6a6d57266a17.png)
+![image](https://github.com/user-attachments/assets/4f0b1ae3-0c1f-416f-808d-8ce6f96f74a7)
 
 ---
 
